@@ -2,20 +2,26 @@
 
 We provide OPT acceptance letters to volunteers who spend 2 to 8 hours using [Cursor AI with Claude](https://cursor.com).
 
+The following is being designed to populate your contributor home page
+
+CoLabs + [Anvil](https://anvil.works/learn/tutorials/data-science#connecting-notebooks) + [Plotly](https://plotly.com/python) and [Seaborn](https://seaborn.pydata.org/examples/index.html) + [Cursor](https://www.cursor.com/) 
+
 Create a data visualization using one or more of our data sources:
+
+(We'll make these easier to copy-and-paste similar to our [RealityStream](/RealityStream) parameters.yaml)
 
 - [Google Timeline Data](https://model.earth/data-commons/docs/data/)
 - [USEEIO Impact Data](https://model.earth/useeio.js/footprint/)
 - [NAICS US Industry Data](https://model.earth/apps/)
 - [Global Trade Data](https://model.earth/OpenFootprint/trade/) - coming soon
 
-Backend developers may also use Cloudflare to deploy a sample.
+Backend developers may also use Cloudflare Workers to deploy a sample.
 
 1. Fork our [contributors repo](https://github.com/modelearth/contributors). Turn on GitHub Pages.
 2. Add a bio folder with your name in the "team" subfolder.
 3. Add a brief bio in a README.md file in your folder. You are welcome to include your resume and/or a link to it.
 
-4. Spend 2 to 8 hours using Cursor with Claude and/or Cloudflare to create an app.
+4. Spend 2 to 8 hours using Cursor with Claude and/or [Cloudflare Workers](https://developers.cloudflare.com/workers/) to create an app.
 
 5. Document the process and prompts you use in a subfolder of your team bio folder called "app".
 
