@@ -1,12 +1,13 @@
 # Contributors
 
-We provide OPT acceptance letters to volunteers who spend 2 to 8 hours using Cursor AI with Claude.
+We provide OPT acceptance letters to volunteers who spend 2 to 8 hours using [Cursor AI with Claude](https://cursor.com).
 
 Create data visualization samples using one or more of our data sources:
 
 - [Google Timeline Data](https://model.earth/data-commons/docs/data/)
 - [USEEIO Impact Data](https://model.earth/useeio.js/footprint/)
-- [NAICS Industry Data](https://model.earth/apps/)
+- [NAICS US Industry Data](https://model.earth/apps/)
+- [Global Trade Data](https://model.earth/OpenFootprint/trade/) - coming soon
 
 Backend developers may also use Cloudflare to deploy a sample.
 
@@ -21,3 +22,11 @@ Backend developers may also use Cloudflare to deploy a sample.
 6. Avoid adding data to the contributors repo. Pull directly from GitHub and APIs.
 
 7. Submit a pull request with your bio and sample, then submit our [New Member form](https://docs.google.com/forms/d/e/1FAIpQLScXSX0_myDcB4_Z32hpGC71PXVsMmgy_dyZPY0aPEWamyzV-w/viewform).
+
+
+## About Cursor with Claude Sonnet
+
+[10 examples of Cursor with Claude Sonnet](https://x.com/dr_cintas/status/1830977637201936780)
+&ndash; [Dashboard for Propdock with Vercel NextJS, Prisma and Tailwind](https://x.com/CodeHagen/status/1829857742409916716)
+
+You could use the Propdock sample and contact Loren for assistance locating our datasets.
