@@ -31,4 +31,4 @@ Backend developers may also use Cloudflare to deploy a sample.
 Avoid this dashboard, it actually took over a month to setup the foundation!  
 &ndash; [Dashboard for Propdock with Vercel NextJS, Prisma and Tailwind](https://x.com/CodeHagen/status/1829857742409916716)
 
-Contact Loren for assistance locating our datasets. (More info coming soon.)
+Contact Loren for dataset assistance.
