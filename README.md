@@ -2,17 +2,22 @@
 
 We provide OPT acceptance letters to volunteers who spend 2 to 8 hours using Cursor AI with Claude.
 
-Create data visualization samples using our data:
+Create data visualization samples using one or more of our data sources:
 
-- [Timeline data](https://model.earth/data-commons/docs/data/)
-- [USEEIO data](https://model.earth/useeio.js/footprint/)
+- [Google Timeline Data](https://model.earth/data-commons/docs/data/)
+- [USEEIO Impact Data](https://model.earth/useeio.js/footprint/)
+- [NAICS Industry Data](https://model.earth/apps/)
 
 Backend developers may also use Cloudflare to deploy a sample.
 
-1. Fork the contributions repo.
-2. Add a folder with your name in the "team" subfolder.
-3. Add a brief bio in a README.md file in your folder.
+1. Fork our [contributors repo](https://github.com/modelearth/contributors). Turn on GitHub Pages.
+2. Add a bio folder with your name in the "team" subfolder.
+3. Add a brief bio in a README.md file in your folder. You are welcome to include your resume and/or a link to it.
 
 4. Spend 2 to 8 hours using Cursor with Claude and/or Cloudflare to create an app.
 
-5. Submit a pull request with your bio and sample, then submit our [New Member form](https://docs.google.com/forms/d/e/1FAIpQLScXSX0_myDcB4_Z32hpGC71PXVsMmgy_dyZPY0aPEWamyzV-w/viewform).
+5. Document the process and prompts you use in a subfolder of your team bio folder called "app".
+
+6. Avoid adding data to the contributors repo. Pull directly from GitHub and APIs.
+
+7. Submit a pull request with your bio and sample, then submit our [New Member form](https://docs.google.com/forms/d/e/1FAIpQLScXSX0_myDcB4_Z32hpGC71PXVsMmgy_dyZPY0aPEWamyzV-w/viewform).
